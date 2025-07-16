@@ -3,8 +3,19 @@
 -create react app
 -configured tailwindcss
 -Header
+-Routing of App
 -login form
 -SignUp form
+-Form Validation
+-useRef Hook
+-Firebase Setup
+-Deploying our app to production
+-Create a SignUp user
+-Implement SignUp user Api
+-Created Redux Store with userSlice
+-Implemented Sign out
+-Update Profile
+
 
 # Features
 -Login/SignUp
